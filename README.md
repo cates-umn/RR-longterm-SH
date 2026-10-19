@@ -1,2 +1,1 @@
-# PGinR_soilhealth
-Anna's inital work on ACE, PMC, aggregates for MN Soy reports
+Work on long-term rotation and tillage experiments from WI, collaboration with MD Ruark based on Greg Richardson's MS work
